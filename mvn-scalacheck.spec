@@ -4,7 +4,7 @@
 #
 Name     : mvn-scalacheck
 Version  : 1.13.5
-Release  : 1
+Release  : 2
 URL      : https://github.com/rickynils/scalacheck/archive/1.13.5.tar.gz
 Source0  : https://github.com/rickynils/scalacheck/archive/1.13.5.tar.gz
 Source1  : https://repo.maven.apache.org/maven2/org/scalacheck/scalacheck_2.12/1.13.5/scalacheck_2.12-1.13.5.jar
